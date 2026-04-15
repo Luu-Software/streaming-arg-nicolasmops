@@ -7,6 +7,7 @@
 body{
   font-family: 'Poppins';
   background-color: #030026;
+  background-image: url('Fondo.png');
 }
 
 h1 {
